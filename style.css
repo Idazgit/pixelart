@@ -1,0 +1,176 @@
+.head {
+  height: 2000px;
+  width: 2000px;
+}
+body {
+  display: flex;
+}
+.head2 {
+  height: 2000px;
+  width: 2000px;
+  transform: scaleX(-1) translateX(442px);
+}
+.hautoreille {
+  clip-path: polygon(22% 5%, 40% 15%, 36% 21%, 21% 8%);
+  background-color: blue;
+  height: 300px;
+  width: 300px;
+  transform: translateY(180px);
+}
+.basoreille {
+  clip-path: polygon(18% 20%, 21% 7%, 36% 20%, 24% 34%);
+  background-color: black;
+  height: 300px;
+  width: 300px;
+  transform: translateY(-117px);
+}
+.ht1 {
+  clip-path: polygon(39% 17%, 47% 17%, 37% 31%, 31% 26%, 35% 20%);
+  background-color: red;
+  height: 300px;
+  width: 300px;
+  transform: translateY(-424px) translateX(5px);
+}
+.ht2 {
+  clip-path: polygon(31% 25%, 37% 30%, 42% 37%, 37% 37%, 33% 40%, 24% 34%);
+  background-color: green;
+  height: 300px;
+  width: 300px;
+  transform: translateY(-718px) translateX(4px);
+}
+.ht3 {
+  clip-path: polygon(37% 36%, 42% 37%, 44% 41%, 41% 44%, 37% 44%, 33% 39%);
+  background-color: orange;
+  height: 300px;
+  width: 300px;
+  transform: translateY(-1014px) translateX(6px);
+}
+.ht4 {
+  clip-path: polygon(33% 39%, 37% 43%, 41% 44%, 38% 48%, 28% 47%, 25% 35%);
+  background-color: violet;
+  height: 370px;
+  width: 300px;
+  transform: translateY(-1339px) translateX(0px) rotate(2deg);
+}
+.ht5 {
+  clip-path: polygon(27% 46%, 38% 47%, 35% 60%, 28% 51%);
+  background-color: blue;
+  height: 300px;
+  width: 300px;
+  transform: translateY(-1670px) translateX(-1px) rotate(4deg);
+}
+.ht6 {
+  clip-path: polygon(47% 17%, 48% 31%, 40% 36%, 36% 30%);
+  background-color: cadetblue;
+  height: 300px;
+  width: 300px;
+  transform: translateY(-1989px) translateX(8px);
+}
+.ht7 {
+  clip-path: polygon(40% 35%, 48% 30%, 48% 38%, 44% 41%);
+  background-color: blueviolet;
+  height: 300px;
+  width: 300px;
+  transform: translateY(-2286px) translateX(8px);
+}
+.ht8 {
+  clip-path: polygon(
+    47% 37%,
+    58% 47%,
+    54% 57%,
+    50% 53%,
+    44% 53%,
+    41% 58%,
+    37% 48%
+  );
+  background-color: black;
+  height: 300px;
+  width: 300px;
+  transform: translateY(-2578px) translateX(10px);
+}
+.ht9 {
+  clip-path: polygon(
+    51% 52%,
+    54% 57%,
+    49% 58%,
+    49% 61%,
+    45% 61%,
+    45% 57%,
+    41% 56%,
+    44% 52%
+  );
+  background-color: green;
+  height: 300px;
+  width: 300px;
+  transform: translateY(-2874px) translateX(10px) rotate(-2deg);
+}
+.ht10 {
+  clip-path: polygon(37% 47%, 35% 60%, 42% 56%);
+  background-color: red;
+  height: 300px;
+  width: 300px;
+  transform: translateY(-3171px) translateX(5px) rotate(5deg);
+}
+.ht11 {
+  clip-path: polygon(45% 57%, 41% 57%, 45% 61%);
+  background-color: blue;
+  height: 300px;
+  width: 300px;
+  transform: translateY(-3472px) translateX(12px) rotate(5deg);
+}
+.ht12 {
+  clip-path: polygon(42% 56%, 45% 59%, 50% 60%, 50% 62%, 36% 63%, 33% 60%);
+  background-color: green;
+  height: 350px;
+  width: 300px;
+  transform: translateY(-3798px) translateX(7px) rotate(5deg);
+}
+.ht13 {
+  clip-path: polygon(24% 34%, 15% 60%, 29% 47%);
+  background-color: purple;
+  height: 350px;
+  width: 300px;
+  transform: translateY(-4145px) translateX(-7px) rotate(7deg);
+}
+.ht14 {
+  clip-path: polygon(28% 46%, 28% 51%, 19% 75%, 14% 60%);
+  background-color: orange;
+  height: 350px;
+  width: 300px;
+  transform: translateY(-4490px) translateX(-5px) rotate(7deg);
+}
+.ht15 {
+  clip-path: polygon(28% 49%, 36% 57%, 25% 81%, 20% 70%);
+  background-color: green;
+  height: 350px;
+  width: 300px;
+  transform: translateY(-4835px) translateX(-4px) rotate(6deg);
+}
+.ht16 {
+  clip-path: polygon(35% 58%, 40% 64%, 31% 85%, 26% 77%);
+  background-color: purple;
+  height: 350px;
+  width: 300px;
+  transform: translateY(-5188px) translateX(2px) rotate(6deg);
+}
+.ht17 {
+  clip-path: polygon(40% 63%, 55% 63%, 52% 68%, 44% 68%);
+  background-color: red;
+  height: 350px;
+  width: 300px;
+  transform: translateY(-5550px) translateX(-8px) rotate(1deg);
+}
+.ht18 {
+  clip-path: polygon(50% 68%, 55% 87%, 48% 93%, 40% 87%, 45% 68%);
+  background-color: black;
+  height: 350px;
+  width: 300px;
+  transform: translateY(-5899px) translateX(-6px) rotate(1deg);
+}
+.ht19 {
+  clip-path: polygon(43% 67%, 41% 87%, 32% 81%, 40% 65%);
+  background-color: blue;
+  height: 350px;
+  width: 300px;
+  transform: translateY(-6242px) translateX(-1px) rotate(2deg);
+}
